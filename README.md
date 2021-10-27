@@ -9,7 +9,7 @@ This a simple Backend Service (REST APIs) for job portal.
 ## Installation Guidelines 
 1. Get the project by below command or Download the zip file and export it.
 ```
-git clone https://github.com/mirajkhandaker/rise-up-labs-job.git
+git clone https://github.com/mirajkhandaker/rise-up-lab-job.git
 ```
 2. Open the project directory and install the dependency by below command.
 
